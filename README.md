@@ -1,5 +1,5 @@
-# FMQRCode
-YEEPlug for Filemaker
+# YEEPlug for Filemaker
+
 
 插件使用
 1、在首选项 -> 插件 -> 显示插件文件夹，将对应平台的插件文件放置在Extension文件夹中

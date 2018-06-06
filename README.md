@@ -1,4 +1,4 @@
-# YEEPlug for Filemaker
+# YEEPlugin for Filemaker QRCode
 ## 插件开发背景  
 二维码在国内的应用非常广泛，可惜 FileMaker 没有内置的二维码生成函数。如果要在 FileMaker 中生成二维码，需要通过 WebViewer 或脚本发送带有内容参数的 URL API，从服务器获取二维码数据。不过，这种方式速度较慢、需要网络连接，且打印时容易模糊。
 

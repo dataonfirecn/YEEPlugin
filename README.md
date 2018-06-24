@@ -22,5 +22,8 @@
 # 2018年6月24日更新
 ## 增加了Code128条码生成函数。
 
+  
+  
+  
 #### 加个鸡腿
 ![鸡腿](https://github.com/OrcaData/FMQRCode/raw/master/wechatpay.png)

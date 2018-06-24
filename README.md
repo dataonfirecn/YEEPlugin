@@ -25,7 +25,8 @@
 <br>
 <br>
   
-<center>
-<img src="https://github.com/OrcaData/FMQRCode/raw/master/wechatpay.png" width="25%" height="25%" />
-加个鸡腿
-</center>
+<p align="center">
+  <b>加个鸡腿</b><br>
+  <br><br>
+  <img src="https://github.com/OrcaData/FMQRCode/raw/master/wechatpay.png" width="25%" height="25%" />
+</p>

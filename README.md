@@ -27,5 +27,6 @@
   
 <p align="center">
   <img src="https://github.com/OrcaData/FMQRCode/raw/master/wechatpay.png" width="25%" height="25%" />
+  <br>
   <b>加个鸡腿......</b><br>
 </p>

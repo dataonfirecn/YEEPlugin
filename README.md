@@ -33,6 +33,6 @@
 ### 您赏的咖啡钱☕️小的不吝感激，并继续努力开发，感谢您的支持。
 
 #### 微信
-<p align="center">
+<p align="left">
   <img src="https://github.com/OrcaData/FMQRCode/raw/master/wechatpay.png" width="25%" height="25%" />
 </p>

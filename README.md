@@ -16,6 +16,10 @@
 
 该插件可应用于单机部署，同时支持服务器部署（可实现部署Server的情况下，然后使用服务器执行脚本，让FM Go生成二维码）。
 
+支持范围：
+Filemaker Pro/Advance 15、 16、 17 在 mac osx 10.12， 10.13, windows 7, windows 10 x86 与 x64平台。
+Filemaker Server 15、 16 在 windows Server 2012 R2
+
 #### 同时为了使二维码插件更符合国内用户的使用习惯，欢迎 Bug 反馈及功能建议，联系作者QQ：53345316。
 
 # 更新

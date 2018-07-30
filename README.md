@@ -24,6 +24,8 @@ Filemaker Server 15、 16 在 windows Server 2012 R2
 
 # 更新
 
+## 2018年7月30日更新
+### 增强了windows 10下面发送系统通知的功能，可通过按钮绑定回调脚本。
 ## 2018年7月3日更新
 ### 增强了FM16以下的支持，不再需要下载Visual C++ Redistrubution库。
 ## 2018年6月24日更新
